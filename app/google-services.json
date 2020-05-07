@@ -1,0 +1,156 @@
+{
+  "project_info": {
+    "project_number": "194501276434",
+    "firebase_url": "https://ejercicio7firebasehuizar.firebaseio.com",
+    "project_id": "ejercicio7firebasehuizar",
+    "storage_bucket": "ejercicio7firebasehuizar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194501276434:android:acf88d44e337661484b9cb",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.ladm_u3_ejercicio7_firebase_emmanuelhuizar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194501276434-r6lsuuef2to8pd75dkbhs7r734gqv8q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9C6n3rbWm9tKaFAHNat5wP06GQ8y0zyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194501276434-r6lsuuef2to8pd75dkbhs7r734gqv8q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194501276434:android:2ceea0608b06b0fe84b9cb",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.ladm_u3_ejercicio8_emmanuelhuizar_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194501276434-r6lsuuef2to8pd75dkbhs7r734gqv8q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9C6n3rbWm9tKaFAHNat5wP06GQ8y0zyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194501276434-r6lsuuef2to8pd75dkbhs7r734gqv8q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194501276434:android:3beebcd60a8c257784b9cb",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.ladm_u3_practica2_emmanuelhuizar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194501276434-r6lsuuef2to8pd75dkbhs7r734gqv8q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9C6n3rbWm9tKaFAHNat5wP06GQ8y0zyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194501276434-r6lsuuef2to8pd75dkbhs7r734gqv8q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194501276434:android:6ff0d99f79c0742484b9cb",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.ladm_u3_tarea3_emmanuelhuizar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194501276434-r6lsuuef2to8pd75dkbhs7r734gqv8q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9C6n3rbWm9tKaFAHNat5wP06GQ8y0zyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194501276434-r6lsuuef2to8pd75dkbhs7r734gqv8q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194501276434:android:8e3281f48b19b9be84b9cb",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.tarea3_emmanuelhuizar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194501276434-r6lsuuef2to8pd75dkbhs7r734gqv8q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9C6n3rbWm9tKaFAHNat5wP06GQ8y0zyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194501276434-r6lsuuef2to8pd75dkbhs7r734gqv8q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

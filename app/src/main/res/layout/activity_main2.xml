@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/alo"
+    android:orientation="vertical"
+    android:paddingStart="50dp"
+    android:paddingLeft="50dp"
+    android:paddingTop="70dp"
+    android:paddingEnd="50dp"
+    android:paddingRight="50dp"
+    android:paddingBottom="50dp"
+    tools:context=".Main2Activity">
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:gravity="center"
+        android:text="Historico de pedidos"
+        android:textColor="@android:color/background_dark"
+        android:textSize="30sp" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/buscar1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Escribe nombre de producto" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:gravity="right"
+        android:text="Agregar pedidos no entregados   " />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="398dp"
+        android:orientation="vertical">
+
+        <ListView
+            android:id="@+id/lista3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_1"
+        android:text="regresar"
+        android:textColor="@drawable/txt_1" />
+
+</LinearLayout>
