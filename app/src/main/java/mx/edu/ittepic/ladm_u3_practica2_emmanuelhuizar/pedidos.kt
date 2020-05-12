@@ -137,7 +137,7 @@ class pedidos : AppCompatActivity() {
                     listaID.add(document.id)
                 }
                 if(dataLista.size==0){
-                    dataLista.add("No hay pedidos por entregar")
+                    dataLista.add("No hay clientes para agregar pedido")
                 }
                 var adaptador = ArrayAdapter<String>(this, android.R.layout.simple_list_item_1,dataLista)
                 lista2.adapter=adaptador
